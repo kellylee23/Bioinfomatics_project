@@ -48,9 +48,9 @@ table_annovar.pl P1300NJS_F.avinput humandb/ -buildver hg19 -out P1300NJS_F_anno
 
 ## 👉결과 확인
   
-- 1) SIFT, CADD, ANNOVAR 
+1) SIFT, CADD, ANNOVAR 
 00 번 환자에 대해 SIFT, CADD, ANNOVAR 세가지 분석 툴을 사용해 얻은 SIFT 점수 분포를 비교하였습니다.
--2) SIFT, ANNOVAR 
+2) SIFT, ANNOVAR 
 01번 환자에 대해 SIFT, ANNOVAR 두가지 분석 툴을 사용해 얻은 SIFT 점수 분포를 비교하였습니다.
 
 
