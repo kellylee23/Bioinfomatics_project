@@ -42,6 +42,8 @@ table_annovar.pl P1300NJS_F.avinput humandb/ -buildver hg19 -out P1300NJS_F_anno
 ```
 
 ### 3. 결과 통합 및 시각화
+위의 코드를 통해 vcf파일을 필터링 후 프로젝트를 진행하였습니다.
+
 함께 추가한 소스코드를 통해 결과를 확인하고, 시각화를 진행하였습니다.
 
 
